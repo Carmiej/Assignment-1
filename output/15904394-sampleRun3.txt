@@ -1,0 +1,203 @@
+Map has sucesfully loaded.
+-----------------------------------------------------------------
+Welcome to my game Monsters And Dungeons?
+Your objective is to move throgh the maze and find the exit in one if the rooms and have atleast $500 gold.
+Each room will have a random amount of gold from 1-500 and each monster will have 250.
+There is also a dagger in one of the rooms to help you in your endevours.
+Caution - every command you type will have a 4 in 20 chance to spawn a monster.
+So be strategic and plan your moves.
+Goodluck and may the odds be ever in your favour
+-----------------------------------------------------------------
+To play the game use the commands:
+open door n - (to open the door marked n)
+pickup n - (to pickup items n)
+help - to see avaliable commands
+When in battlemode use the commands:
+attack - to attack the monster.
+This game is hardcore there is no running from the monsters.
+-----------------------------------------------------------------
+You are alone in a  cold room. It is very silent...  
+There are doors with numbers: 2 
+Command? open door 2
+-----------------------------------------------------------------
+You are in a room with a single window that cannot be opened.
+There is 112 gold coins on the ground infront of you.
+There are doors with numbers: 1 3 5 
+Command? open door 3
+-----------------------------------------------------------------
+The ceiling is low in this room and it feels warm.
+There is 112 gold coins on the ground infront of you.
+There is a dagger on the floor infront of you.
+There are doors with numbers: 2 5 
+
+Darilth has appeared
+You dare to wake me!
+Darilth has 120 health
+-----------------------------------------------------------------
+You have enterd battlemode.
+-----------------------------------------------------------------
+
+Command? attack
+Darilth has lost 12 damage.
+-----------------------------------------------------------------
+You take 5 damage
+-----------------------------------------------------------------
+-----------------------------------------------------------------
+
+Command? attack
+Darilth has lost 19 damage.
+-----------------------------------------------------------------
+You take 9 damage
+-----------------------------------------------------------------
+-----------------------------------------------------------------
+
+Command? attack
+Darilth has lost 32 damage.
+-----------------------------------------------------------------
+You take 8 damage
+-----------------------------------------------------------------
+-----------------------------------------------------------------
+
+Command? attack
+Darilth has lost 36 damage.
+-----------------------------------------------------------------
+You take 6 damage
+-----------------------------------------------------------------
+-----------------------------------------------------------------
+
+Command? attack
+Darilth has lost 18 damage.
+-----------------------------------------------------------------
+You take 3 damage
+-----------------------------------------------------------------
+-----------------------------------------------------------------
+
+Command? attack
+Darilth has lost 21 damage.
+-----------------------------------------------------------------
+-----------------------------------------------------------------
+Darilth has fallen
+Your gold count is now: 250
+-----------------------------------------------------------------
+-----------------------------------------------------------------
+Please press enter to continue
+
+Command? 
+Please enter a command
+-----------------------------------------------------------------
+The ceiling is low in this room and it feels warm.
+There is 112 gold coins on the ground infront of you.
+There is a dagger on the floor infront of you.
+There are doors with numbers: 2 5 
+Command? pickup dagger
+you now carry a dagger and your damage is increased.
+-----------------------------------------------------------------
+The ceiling is low in this room and it feels warm.
+There is 112 gold coins on the ground infront of you.
+There are doors with numbers: 2 5 
+Command? pickup gold
+Your gold count is now: 362
+-----------------------------------------------------------------
+The ceiling is low in this room and it feels warm.
+There are doors with numbers: 2 5 
+Command? open door 2
+-----------------------------------------------------------------
+You are in a room with a single window that cannot be opened.
+There is 112 gold coins on the ground infront of you.
+There are doors with numbers: 1 3 5 
+Command? pickup gold
+Your gold count is now: 474
+-----------------------------------------------------------------
+You are in a room with a single window that cannot be opened.
+There are doors with numbers: 1 3 5 
+Command? open door 5
+-----------------------------------------------------------------
+You are in a massive room with a very high ceiling.
+There is 419 gold coins on the ground infront of you.
+There are doors with numbers: 3 4 2 
+Command? pickup gold
+Your gold count is now: 893
+-----------------------------------------------------------------
+You are in a massive room with a very high ceiling.
+There are doors with numbers: 3 4 2 
+Command? search
+There is no exit in here.
+-----------------------------------------------------------------
+You are in a massive room with a very high ceiling.
+There are doors with numbers: 3 4 2 
+Command? open door 3
+-----------------------------------------------------------------
+The ceiling is low in this room and it feels warm.
+There are doors with numbers: 2 5 
+
+Zlog has appeared
+I will crush you!
+Zlog has 100 health
+-----------------------------------------------------------------
+You have enterd battlemode.
+-----------------------------------------------------------------
+
+Command? attack
+Zlog has lost 32 damage.
+-----------------------------------------------------------------
+You take 5 damage
+-----------------------------------------------------------------
+-----------------------------------------------------------------
+
+Command? attack
+Zlog has lost 31 damage.
+-----------------------------------------------------------------
+You take 5 damage
+-----------------------------------------------------------------
+-----------------------------------------------------------------
+
+Command? attack
+Zlog has lost 30 damage.
+-----------------------------------------------------------------
+You take 7 damage
+-----------------------------------------------------------------
+-----------------------------------------------------------------
+
+Command? attack
+Zlog has lost 22 damage.
+-----------------------------------------------------------------
+-----------------------------------------------------------------
+Zlog has fallen
+Your gold count is now: 1143
+-----------------------------------------------------------------
+-----------------------------------------------------------------
+Please press enter to continue
+
+Command? 
+Please enter a command
+-----------------------------------------------------------------
+The ceiling is low in this room and it feels warm.
+There are doors with numbers: 2 5 
+Command? search
+There is no exit in here.
+-----------------------------------------------------------------
+The ceiling is low in this room and it feels warm.
+There are doors with numbers: 2 5 
+Command? open door 5
+-----------------------------------------------------------------
+You are in a massive room with a very high ceiling.
+There are doors with numbers: 3 4 2 
+Command? open door4
+Invalid command
+-----------------------------------------------------------------
+You are in a massive room with a very high ceiling.
+There are doors with numbers: 3 4 2 
+Command? open door 4
+-----------------------------------------------------------------
+The room is dark.
+There is 87 gold coins on the ground infront of you.
+There are doors with numbers: 5 
+Command? pickup gold
+Your gold count is now: 1230
+-----------------------------------------------------------------
+The room is dark.
+There are doors with numbers: 5 
+Command? search
+-----------------------------------------------------------------
+Congratulations you have completed the game and you found 1230 gold
+-----------------------------------------------------------------
